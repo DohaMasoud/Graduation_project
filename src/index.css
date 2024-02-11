@@ -1,0 +1,70 @@
+body {
+  background-color: #F7FAFC;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.c3{
+  bottom: 0;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.c1,.c2{
+background-color: white;
+padding-left: 75px;
+padding-right: 70px;
+border-bottom: 1px solid rgb(205, 199, 199);
+}
+.c2{
+  margin-top: 0px;
+}
+.c1 input{
+  width: 300px;
+  border:1px solid #0871FF;
+  padding:5px ;
+  border-radius: 5px;
+  margin-left: 40px;
+}
+.c1 button{
+  width: 100px;
+  background-color: #0871FF;
+  border-radius: 5px;
+  margin-left: -3px;
+  padding: 5px;
+  border: 1px #0871FF solid;
+  color: white;
+  margin-right: 10px;
+}
+
+.c1 li{
+  color: rgb(177, 177, 177);
+}
+.icon{
+  padding-left: 10px;
+}
+.c1 h3{
+  display: inline;
+  padding-right: 30px;
+}
+.c1 ul ,.c2 ul{
+  margin-right:0px ;
+  display: inline-block;
+  list-style-type: none ;
+}
+.c2 li{
+  display: inline;
+  padding-right: 20px;
+  color: grey;
+}
+.c3 ul{
+  list-style: none;
+  display: inline-block;
+  padding-right: 15px;
+}
+.c3 .colgry{
+  color:#a8a7a7
+}

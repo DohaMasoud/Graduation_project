@@ -1,0 +1,9 @@
+.team{
+    width: 230px;
+    background-color: white;
+    padding: 10px;
+    margin: 6px;
+    border-radius: 5px;
+    display: grid;
+    justify-content: center;
+}
